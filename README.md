@@ -98,11 +98,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-## 📢 Contact
 
-* Open an issue on this repository
-* Connect via [YouTube - CartoonWorldVM](https://youtube.com/@cartoonworldvm9770)
-* GitHub: [VipinMI2024](https://github.com/VipinMI2024)
 
 ---
 
@@ -116,4 +112,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-> Built with passion by **Vipin Mishra**
+> Built with passion by **Ansh Malhotra**
+
